@@ -53,5 +53,8 @@
     "parcel-bundler": "1.12.4",
     "prettier": "1.19.1",
     "test-data-bot": "0.8.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
   }
 }
